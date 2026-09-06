@@ -20,7 +20,7 @@
 
 	<groupId>com.jeevision.bpm</groupId>
 	<artifactId>operaton-process-instance-migrator</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 
 	<name>Operaton BPM Process Instance Migrator</name>
 	<description>Process Instance Migrator for Operaton BPM</description>
@@ -39,7 +39,7 @@
 		<url>https://github.com/vyermakov/operaton-process-instance-migrator</url>
 		<connection>scm:git:git:/github.com/vyermakov/operaton-process-instance-migrator.git</connection>
 		<developerConnection>scm:git:git@github.com:vyermakov/operaton-process-instance-migrator.git</developerConnection>
-		<tag>v1.0.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<distributionManagement>
